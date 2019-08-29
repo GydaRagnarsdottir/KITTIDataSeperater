@@ -1,5 +1,6 @@
 # DataSeperater
 Seperate KITTI data for Voxelnet. It can also be modified to seperate other data sample
+
 Usage:
 1. Copy seperateSamples.py to your [VoxelnetRoot] folder
 2. Run it with command "python seperateSamples.py" in terminal
